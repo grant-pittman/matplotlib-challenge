@@ -73,6 +73,6 @@ These are my three inferences or observations of the data:
 
 -Competitor drug Ramicane seems to be the best drug for the mice based on smallest final tumor volume after the test period. 
 
-- The mice used in the Ramicane trial were the youngest of all mice used across regimens. This could have contributed to the fact that Ramicane came out as the most effective. 
+-The mice used in the Ramicane trial were the youngest of all mice used across regimens. This could have contributed to the fact that Ramicane came out as the most effective. 
 
--Thereis a positive correlation between the weight of the mice and their tumors. As the size of the tumor increase, the total weight of the mice increase as well.
+-There is a positive correlation between the weight of the mice and their tumors. As the size of the tumor increase, the total weight of the mice increase as well.
